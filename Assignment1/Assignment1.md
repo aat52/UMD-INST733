@@ -18,3 +18,5 @@ For example, if the deadline is at 11:00PM, a submission on 11:01PM is subject t
 The assignment will remain open for 48 hours after the deadline for late submissions with grade reduction.
 
 ## Score: 100/100
+### Feedback:
+Answer 1: For future reference when you are using an ORDER BY clause you only have to mention when you want the values to be descending, otherwise MySQL automatically assumes that it is ascending. For the WHERE clause you can simply use WHERE vendor_contact_first_name < "B". Also, it is always better to use an inequality in the WHERE clause to return a range of values and therefore the alternative WHERE clause you provided would not be as useful with large datasets.
