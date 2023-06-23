@@ -20,7 +20,7 @@ Pairs will be self-formed by Monday, February 14.  Students who do not form a te
 
 [Here](TopicAreas.md) is the list of possible topic areas. While it is not a strict requirement, students are encouraged to stay within the ranges of topics stated on that list. Each team will determine the scope of their database within their topic domain consulting with the instructors. The scope for each project will be reviewed and approved via the Project Proposal. 
 
-The team project will involve the three phases listed below, each with specific deliverables. All deliverables must follow these conventions: Team Project Deliverable Expectations.
+The team project will involve the three phases listed below, each with specific deliverables. All deliverables must follow these conventions: [Team Project Deliverable Expectations](DeliverableExpectations.md).
 
 1) Choosing and articulating an information domain, for which the team will develop a database. [Deliverable: Project Proposal]
 
