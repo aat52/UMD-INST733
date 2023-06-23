@@ -41,6 +41,6 @@ Normalize the un-normalized table given below through 1NF, 2NF and 3NF.
 |Food Vendor 3	|Seafood on the Bayou and Boudin Shop |
 |Food Vendor 3 Specialties	|Boiled Crawfish, Shrimp Gumbo, Crawfish Jambalaya |
 
-###Score: 90/100
-###Feedback: 
+### Score: 90/100
+### Feedback: 
 1NF, 2NF, and 3NF: All of your relationship arrows are pointing in the incorrect direction and should be flipped. The relationship arrow should start at the primary key in the original table and point towards the foreign key in a separate table. For example, in your 3NF for company id, it should begin at the company id in the production companies table and point towards the company id foreign key in the festivals table. (-10, all relationship arrows are pointed in the opposite direction)
