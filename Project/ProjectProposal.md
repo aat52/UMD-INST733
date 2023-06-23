@@ -1,6 +1,14 @@
 ## INST 733 - Database Design - Project Proposal Guidelines
 Please read all of this carefully, and follow all instructions.
 
+[Project Overview](ProjectOverview.md)
+
+[Project Topic Areas](TopicAreas.md) 
+
+[Project Deliverable Expectations](DeliverableExpectations.md)
+
+[Project Proposal Rubric](Rubric.pdf)
+
 By this point in the semester, you should have formed your project team/pair. You also should be close to deciding your project topic, if you have not already done so. The immediate next step is to write and submit a formal proposal introducing your project idea. The proposal will serve as an agreement between the team and the instructors on the project topic and the scope. The following guidelines will help you complete this first project task successfully.
 
 **What to include in the proposal?**
