@@ -4,9 +4,9 @@ Make sure to read the [Project Overview](ProjectOverview.md) once again, before 
 
 Prepare a submission and a report that satisfies the following requirements:
 
-[INST733 - Project Final Submission - Submission Instructions.pdf](INST733 - Project Final Submission - Submission Instructions.pdf)
+[INST733 - Project Final Submission - Submission Instructions.pdf](SubmissionInstructions.pdf)
 
-[INST733 - Project Final Submission - Report Requirements.pdf](INST733 - Project Final Submission - Report Requirements.pdf)
+[INST733 - Project Final Submission - Report Requirements.pdf](ReportRequirements.pdf)
 
 [INST733 - Project Final Submission - Rubric.pdf](FinalRubric.pdf)
 
